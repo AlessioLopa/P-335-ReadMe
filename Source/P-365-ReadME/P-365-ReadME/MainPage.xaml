@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="P_365_ReadME.MainPage"
+             Title="">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Label Text="Tableau de bord" HorizontalOptions="Center" FontSize="22" Padding="20"></Label>
+
+            <HorizontalStackLayout
+                HorizontalOptions="Center">
+                
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
+            </HorizontalStackLayout>
+            
+            <HorizontalStackLayout
+    HorizontalOptions="Center">
+
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
+            </HorizontalStackLayout>
+            
+            <HorizontalStackLayout
+    HorizontalOptions="Center">
+
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
+                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
