@@ -2,8 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P_365_ReadME.MainPage"
-             Title="">
-
+             Title
     <ScrollView>
         <VerticalStackLayout
             Padding="30,0"
@@ -11,22 +10,29 @@
 
             <Label Text="Tableau de bord" HorizontalOptions="Center" FontSize="22" Padding="20"></Label>
 
+            
             <HorizontalStackLayout
                 HorizontalOptions="Center">
+                <Border Stroke="#C49B33" StrokeThickness="2" HorizontalOptions="Center" Padding="30" Margin="10">
+                    <ImageButton Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start"  Background="Black" Clicked="OnImageButtonClicked"/>
+
+                </Border>
                 
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
+                <Border Stroke="#C49B33" StrokeThickness="2" Padding="30" Margin="10">
+                    <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Background="Red"></Image>
+                </Border>
+                
             </HorizontalStackLayout>
             
             <HorizontalStackLayout
-    HorizontalOptions="Center">
+                HorizontalOptions="Center">
 
                 <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
                 <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
             </HorizontalStackLayout>
             
             <HorizontalStackLayout
-    HorizontalOptions="Center">
+                HorizontalOptions="Center">
 
                 <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
                 <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>

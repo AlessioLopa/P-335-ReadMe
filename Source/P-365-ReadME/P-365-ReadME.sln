@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-365-ReadME", "P-365-ReadME\P-365-ReadME.csproj", "{E8BCD59B-7596-4134-9B53-07BB58091B0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P-365-ReadME", "P-365-ReadME\P-365-ReadME.csproj", "{E8BCD59B-7596-4134-9B53-07BB58091B0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{6B6A298C-3374-417C-A60A-8A33A42E0EEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
