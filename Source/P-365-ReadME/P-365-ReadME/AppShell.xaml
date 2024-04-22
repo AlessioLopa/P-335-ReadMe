@@ -7,9 +7,16 @@
     Shell.FlyoutBehavior="Disabled"
     Title="P_365_ReadME">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <Tab Title="BookPage">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:BookPage}"
+        Route="BookPage" />
+    </Tab>
+
+    <Tab Title="BookList">
+        <ShellContent
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+    </Tab>
 
 </Shell>

@@ -7,10 +7,6 @@
             InitializeComponent();
         }
 
-        async void OnImageButtonClicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new BookPage());
-        }
     }
 
 }

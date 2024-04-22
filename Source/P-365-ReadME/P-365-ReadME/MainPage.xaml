@@ -2,43 +2,42 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P_365_ReadME.MainPage"
-             Title
+             BackgroundColor="#0f0f0f"
+             Shell.BackgroundColor="#0f0f0f"
+             Title="Book list"
+             Shell.TitleColor="White">
     <ScrollView>
-        <VerticalStackLayout
-            Padding="30,0"
-            Spacing="25">
 
-            <Label Text="Tableau de bord" HorizontalOptions="Center" FontSize="22" Padding="20"></Label>
+        <VerticalStackLayout>
+            <SearchBar/>
+            <StackLayout>
+                <Grid ColumnSpacing="10" Padding="15" HorizontalOptions="Center" >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="175"/>
+                        <ColumnDefinition Width="175"/>
+                    </Grid.ColumnDefinitions>
 
-            
-            <HorizontalStackLayout
-                HorizontalOptions="Center">
-                <Border Stroke="#C49B33" StrokeThickness="2" HorizontalOptions="Center" Padding="30" Margin="10">
-                    <ImageButton Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start"  Background="Black" Clicked="OnImageButtonClicked"/>
+                    <Frame Grid.Row="0" Grid.Column="0" Padding="30" BorderColor="Black" BackgroundColor="#2c2c2c">
+                        <StackLayout>
+                            <Image HeightRequest="175" Source="https://static.fnac-static.com/multimedia/PE/Images/FR/NR/fd/84/90/9471229/1507-1/tsp20240221073135/Leve-toi-et-code.jpg" VerticalOptions="Center" HorizontalOptions="Center" />
+                            <Label Text="Lève toi et code" TextColor="White" Padding="5" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
 
-                </Border>
-                
-                <Border Stroke="#C49B33" StrokeThickness="2" Padding="30" Margin="10">
-                    <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Background="Red"></Image>
-                </Border>
-                
-            </HorizontalStackLayout>
-            
-            <HorizontalStackLayout
-                HorizontalOptions="Center">
-
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
-            </HorizontalStackLayout>
-            
-            <HorizontalStackLayout
-                HorizontalOptions="Center">
-
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="Start" Margin="20" Background="Black"/>
-                <Image Source="Resources/Images/dotnet_bot.png" WidthRequest="100" HeightRequest="200" HorizontalOptions="End" Margin="20" Background="Red"/>
-            </HorizontalStackLayout>
-
+                    <Frame Grid.Row="0" Grid.Column="1" Padding="30" BorderColor="Black" BackgroundColor="#2c2c2c">
+                        <StackLayout>
+                            <Image HeightRequest="175" Source="https://static.fnac-static.com/multimedia/Images/FR/NR/1f/8b/aa/11176735/1507-1/tsp20220305105841/Memoires-vives.jpg" VerticalOptions="Center" HorizontalOptions="Center" />
+                            <Label Text="Mémoires vives" TextColor="White" Padding="5" HorizontalOptions="Center"/>
+                        </StackLayout>
+                    </Frame>
+                    
+                </Grid>
+            </StackLayout>
         </VerticalStackLayout>
     </ScrollView>
+       
 
 </ContentPage>

@@ -1037,3 +1037,4 @@ C:\Users\pu41ecx\Documents\GitHub\P-AppMobile\Source\P-365-ReadME\P-365-ReadME\o
 C:\Users\pu41ecx\Documents\GitHub\P-AppMobile\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\pu41ecx\Documents\GitHub\P-AppMobile\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\pu41ecx\Documents\GitHub\P-AppMobile\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\pu41ecx\Documents\GitHub\P-AppMobile\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\resizetizer\r\drawable\levetoietcode.jpg
