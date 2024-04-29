@@ -9,6 +9,7 @@
     <ScrollView>
 
         <VerticalStackLayout>
+            <Label Text="Bibliothèque" HorizontalOptions="Center" TextColor="White" FontSize="Title" FontAttributes="Bold"></Label>
             <SearchBar/>
             <StackLayout>
                 <Grid ColumnSpacing="10" Padding="15" HorizontalOptions="Center" >
@@ -38,6 +39,5 @@
             </StackLayout>
         </VerticalStackLayout>
     </ScrollView>
-       
 
 </ContentPage>
