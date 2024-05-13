@@ -2,10 +2,16 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="P_365_ReadME.MainPage"
+             xmlns:ViewModels="clr-namespace:P_365_ReadME.ViewModels"
              BackgroundColor="#0f0f0f"
              Shell.BackgroundColor="#0f0f0f"
              Title="Book list"
              Shell.TitleColor="White">
+    
+    <ContentPage.BindingContext>
+        <ViewModels:ReadMeViewModels/>
+    </ContentPage.BindingContext>
+    
     <ScrollView>
 
         <VerticalStackLayout>

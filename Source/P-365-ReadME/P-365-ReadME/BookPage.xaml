@@ -4,9 +4,5 @@
              x:Class="P_365_ReadME.BookPage"
              BackgroundColor="#0f0f0f"
              Shell.BackgroundColor="#0f0f0f">
-    <VerticalStackLayout>
-        
-        <Image Source="Resources/Images/dotnte_bot.png"/>
-
-    </VerticalStackLayout>
+    
 </ContentPage>

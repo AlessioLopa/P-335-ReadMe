@@ -12,6 +12,12 @@ build_property.ProjectDir = C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Sourc
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[C:/Users/pu41ecx/Documents/GitHub/P-335-ReadMe/Source/P-365-ReadME/P-365-ReadME/ApiPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = P_365_ReadME.ApiPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ApiPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ApiPage.xaml
+
 [C:/Users/pu41ecx/Documents/GitHub/P-335-ReadMe/Source/P-365-ReadME/P-365-ReadME/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = P_365_ReadME.App.xaml

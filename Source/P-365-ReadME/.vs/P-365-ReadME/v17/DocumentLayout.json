@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\bookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\bookpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\viewmodels\\readmeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\viewmodels\\readmeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|c:\\users\\pu41ecx\\documents\\github\\p-335-readme\\source\\p-365-readme\\p-365-readme\\bookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8BCD59B-7596-4134-9B53-07BB58091B0E}|P-365-ReadME\\P-365-ReadME.csproj|solutionrelative:p-365-readme\\bookpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\BookPage.xaml.cs",
+              "RelativeDocumentMoniker": "P-365-ReadME\\BookPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\BookPage.xaml.cs",
+              "RelativeToolTip": "P-365-ReadME\\BookPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:21:02.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\AppShell.xaml",
+              "RelativeDocumentMoniker": "P-365-ReadME\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\AppShell.xaml",
+              "RelativeToolTip": "P-365-ReadME\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:18:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "P-365-ReadME\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "P-365-ReadME\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-13T13:16:27.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "network_security_config.xml",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeDocumentMoniker": "P-365-ReadME\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeToolTip": "P-365-ReadME\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-13T13:15:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApiPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ApiPage.xaml.cs",
+              "RelativeDocumentMoniker": "P-365-ReadME\\ApiPage.xaml.cs",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ApiPage.xaml.cs",
+              "RelativeToolTip": "P-365-ReadME\\ApiPage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:07:40.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ApiPage.xaml",
+              "RelativeDocumentMoniker": "P-365-ReadME\\ApiPage.xaml",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ApiPage.xaml",
+              "RelativeToolTip": "P-365-ReadME\\ApiPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:06:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\BookPage.xaml",
+              "RelativeDocumentMoniker": "P-365-ReadME\\BookPage.xaml",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\BookPage.xaml",
+              "RelativeToolTip": "P-365-ReadME\\BookPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T12:20:37.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Book.cs",
+              "RelativeDocumentMoniker": "P-365-ReadME\\Book.cs",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\Book.cs",
+              "RelativeToolTip": "P-365-ReadME\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:02:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReadMeViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ViewModels\\ReadMeViewModels.cs",
+              "RelativeDocumentMoniker": "P-365-ReadME\\ViewModels\\ReadMeViewModels.cs",
+              "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\ViewModels\\ReadMeViewModels.cs",
+              "RelativeToolTip": "P-365-ReadME\\ViewModels\\ReadMeViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:20:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\MainPage.xaml",
               "RelativeDocumentMoniker": "P-365-ReadME\\MainPage.xaml",
               "ToolTip": "C:\\Users\\pu41ecx\\Documents\\GitHub\\P-335-ReadMe\\Source\\P-365-ReadME\\P-365-ReadME\\MainPage.xaml",
               "RelativeToolTip": "P-365-ReadME\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-25T13:17:50.518Z",
               "EditorCaption": ""

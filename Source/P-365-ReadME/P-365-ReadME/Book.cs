@@ -1,22 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace P_365_ReadME
 {
-    class Book
+    public class Book
     {
+        public int id { get; set; }
+        public string? title { get; set; }
+        public string? epub { get; set; }
 
-        public string Title { get; set}
-        public string Description { get; set; }
-        public string Author { get; set; }
-        public int NumberOfPages { get; set; }
-
-        List<object> books = new List<object>();
-
-        
+        public override string ToString()
+        {
+            return $"[Book {id}";
+        }
     }
 }

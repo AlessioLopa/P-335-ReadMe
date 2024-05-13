@@ -57,11 +57,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Remove="Book.cs" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <None Include="Book.cs" />
+	  <None Remove="Platforms\Android\Resources\network_security_config.xml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -72,6 +68,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Update="ApiPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="BookPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

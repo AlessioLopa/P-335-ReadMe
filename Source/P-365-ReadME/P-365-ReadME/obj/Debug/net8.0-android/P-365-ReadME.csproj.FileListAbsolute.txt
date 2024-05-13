@@ -2080,3 +2080,4 @@ C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Source\P-365-ReadME\P-365-ReadME\
 C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.dll
 C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\pu41ecx\Documents\GitHub\P-335-ReadMe\Source\P-365-ReadME\P-365-ReadME\obj\Debug\net8.0-android\res\xml\network_security_config.xml

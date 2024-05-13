@@ -9,8 +9,8 @@
 
     <Tab Title="BookPage">
         <ShellContent
-        ContentTemplate="{DataTemplate local:BookPage}"
-        Route="BookPage" />
+        ContentTemplate="{DataTemplate local:ApiPage}"
+        Route="ApiPage" />
     </Tab>
 
     <Tab Title="BookList">
