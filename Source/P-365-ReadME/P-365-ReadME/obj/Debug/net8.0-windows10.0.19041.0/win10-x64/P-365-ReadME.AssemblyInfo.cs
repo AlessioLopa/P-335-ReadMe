@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P-365-ReadME")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1d302464122b9e051fcba798f606973fba4f208d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+59963b9ff1bec1b7cccb372ccf3313112ef5b13c")]
 [assembly: System.Reflection.AssemblyProductAttribute("P-365-ReadME")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P-365-ReadME")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

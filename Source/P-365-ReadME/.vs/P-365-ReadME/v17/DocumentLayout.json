@@ -63,8 +63,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T12:21:02.609Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "P-365-ReadME\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T13:18:50.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:18:50.519Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "P-365-ReadME\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-13T13:16:27.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:16:27.111Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "P-365-ReadME\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-13T13:15:29.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:15:29.345Z"
             },
             {
               "$type": "Document",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "P-365-ReadME\\ApiPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T13:06:48.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T13:06:48.465Z"
             },
             {
               "$type": "Document",
@@ -141,8 +136,7 @@
               "RelativeToolTip": "P-365-ReadME\\BookPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T12:20:37.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T12:20:37.289Z"
             },
             {
               "$type": "Document",
@@ -154,8 +148,7 @@
               "RelativeToolTip": "P-365-ReadME\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T12:02:23.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T12:02:23.047Z"
             },
             {
               "$type": "Document",
@@ -167,8 +160,7 @@
               "RelativeToolTip": "P-365-ReadME\\ViewModels\\ReadMeViewModels.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T11:20:22.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T11:20:22.308Z"
             },
             {
               "$type": "Document",
@@ -180,8 +172,7 @@
               "RelativeToolTip": "P-365-ReadME\\MainPage.xaml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-25T13:17:50.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T13:17:50.518Z"
             }
           ]
         }
