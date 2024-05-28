@@ -5,9 +5,9 @@
              Title="ApiPage">
     <VerticalStackLayout>
         <Entry x:Name="endpoint" WidthRequest="300"
-Text="http://10.0.2.2:3000/epub/1"
-VerticalOptions="Center" 
-HorizontalOptions="Center" />
+               Text="http://10.0.2.2:3000/epub/all"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
 
         <HorizontalStackLayout>
             <Label Text="XML"/>
@@ -16,8 +16,21 @@ HorizontalOptions="Center" />
 
         <Button Text="Load data" Clicked="Button_Clicked"></Button>
 
-        <Label x:Name="title" Text="book title"></Label>
-
-        <Image x:Name="cover" WidthRequest="150" HeightRequest="150" Source="book.png" />
+        <CollectionView x:Name="BooksCollectionView"
+                        ItemsLayout="VerticalGrid, 2"
+                        SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Image Grid.Row="0" WidthRequest="150" HeightRequest="150" Source="{Binding CoverImage}" />
+                        <Label Grid.Row="1" Text="{Binding Title}" FontAttributes="Bold" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </VerticalStackLayout>
 </ContentPage>
